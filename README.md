@@ -1,7 +1,7 @@
 # elif-print.github.io
 
 # The code creates a random number between 500000 and 700000. 
-# Can be used to de-indetify participant MTURK IDs from wualtrics surveys 
+# Can be used to de-identify participant MTURK IDs from wualtrics surveys 
 # Way to create the random number generator webpage: 
 # 1) https://www.youtube.com/watch?v=JeUMb0OgUGg&ab_channel=LearnWebCode
 # * how to create a html file: https://www.youtube.com/watch?v=mEtBGcMKBY0&ab_channel=ROY-SEOTutorials
